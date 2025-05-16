@@ -92,6 +92,4 @@ module.exports.countries = [
 	['Monaco', 10, 0, 0, 0, 'Microstates', '🇲🇨'],
 	['Andorra', 5, 0, 0, 0, 'Microstates', '🇦🇩'],
 	['San Marino', 5, 0, 0, 0, 'Microstates', '🇸🇲'],
-	['Krakow', 5, 0, 0, 0, 'Microstates', '🇵🇱'],
 	['Montenegro', 5, 3, 0, 0, 'Microstates', '🇲🇪'],
-]
